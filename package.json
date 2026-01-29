@@ -1,0 +1,17 @@
+{
+  "name": "marketing-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Marketing Analytics Dashboard for Vercel",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": [
+    "marketing",
+    "analytics",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}
